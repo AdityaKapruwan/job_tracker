@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "chart.js": "^4.4.7",
-    "job-application-tracker": "file:..",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "^18.3.1"
